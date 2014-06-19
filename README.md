@@ -1,4 +1,6 @@
 sketch-pad
 ==========
 
-http://www.theodinproject.com/web-development-101/javascript-and-jquery
+# theodinproject
+
+sketch-pad built with jQuery and Javascript
