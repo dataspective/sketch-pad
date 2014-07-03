@@ -1,0 +1,46 @@
+html, body {
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	text-align: center;
+}
+
+button,
+button2,
+button3 {
+	margin: 1em;
+	padding: 0.5em;
+	opacity: 0.8;
+	border: 0.1em solid gray;
+	background-color: white;
+	border-radius: 0.5em;
+	box-shadow: 0.4em 0.4em 0.5em rgba(0,0,0,0.1);
+	display: inline-block;
+	text-decoration: none;
+}
+
+#gridWrap {
+	margin-right: auto;
+	margin-left: auto;
+	width: 75%;
+	text-align: center;
+	background-color: white;
+	box-shadow: 1em 1em 1em rgba(0,0,0,0.1);
+	border: 0.1em solid gray;
+}
+
+.style {
+	margin-right: auto;
+	margin-left: auto;
+	width: 1em;
+	height: 1em;
+	display: inline-block;
+}
+
+.onHover {
+	background-color: lightgray;
+}
+
+.offHover {
+	background-color: white;
+}
